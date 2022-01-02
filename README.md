@@ -5,3 +5,4 @@ This is a simple html slider with css and javascripts.
 - Slick Carousel
 - slider 
 - Jquery
+# vic2
